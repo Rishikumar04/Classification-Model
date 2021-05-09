@@ -3,7 +3,10 @@ This repo contains classification model comparison with the basic 2D dataset whi
 * Logistics Regression
 * K-Nearest Neighbours
 * Naive Bayes
+* Support Vector Machines
+* Kernel - SVM
 * Decision Tree
+* Bagging Classifier
 * Random Forest
 * Ada Boost
 * Gradient Boost
