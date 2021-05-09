@@ -1,5 +1,5 @@
 # Classification-Model
-This repo contains classification model comparison with the basic 2D dataset which includes some model like
+This repo contains classification model comparison with the basic 2D dataset which includes some model like,
 * Logistics Regression
 * K-Nearest Neighbours
 * Naive Bayes
